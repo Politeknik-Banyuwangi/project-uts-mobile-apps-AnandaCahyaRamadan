@@ -176,11 +176,30 @@ class Chats extends StatelessWidget {
                 radius: 30,
               ),
               title: Text(
-                'Mana mikasa?',
+                'Eren',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('Ereh'),
+              subtitle: Text('Mana mikasa?'),
               trailing: Text('12.19 PM'),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/5ybbrPS9/andika.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Bang andika',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('Ayo ngeband'),
+              trailing: Text('13.19 PM'),
             ),
             const Divider(
               height: 1,
