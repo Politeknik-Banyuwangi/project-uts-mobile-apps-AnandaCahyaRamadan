@@ -51,7 +51,16 @@ class Calls extends StatelessWidget {
                 'Sasuke',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('080999761656'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 071201108979')
+                ],
+              ),
               trailing: Icon(
                 Icons.call,
                 color: Colors.green,
@@ -73,7 +82,16 @@ class Calls extends StatelessWidget {
                 'Otsutsuki ramen',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('080999761656'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 091201108979')
+                ],
+              ),
               trailing: Icon(
                 Icons.video_call,
                 color: Colors.green,
