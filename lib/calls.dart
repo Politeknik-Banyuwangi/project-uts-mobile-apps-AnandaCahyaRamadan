@@ -95,7 +95,16 @@ class Calls extends StatelessWidget {
                 'Nana',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('080669761656'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 081201108979')
+                ],
+              ),
               trailing: Icon(
                 Icons.video_call,
                 color: Colors.green,
