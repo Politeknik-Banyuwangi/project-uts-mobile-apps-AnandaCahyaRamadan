@@ -34,7 +34,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -53,7 +53,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -72,7 +72,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -91,7 +91,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -110,7 +110,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -129,7 +129,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -148,7 +148,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -167,7 +167,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -186,7 +186,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -205,7 +205,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -224,7 +224,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -243,7 +243,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -262,7 +262,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -281,7 +281,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -300,7 +300,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -319,7 +319,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -338,7 +338,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -357,7 +357,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -376,7 +376,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
             ListTile(
               leading: CircleAvatar(
@@ -395,7 +395,7 @@ class Chats extends StatelessWidget {
               height: 1,
               indent: 20,
               endIndent: 20,
-              color: Colors.black,
+              color: Colors.grey,
             ),
           ],
         ),
