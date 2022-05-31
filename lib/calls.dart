@@ -107,6 +107,28 @@ class Calls extends StatelessWidget {
               endIndent: 20,
               color: Colors.black,
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/pL68tj7M/genos.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Genos',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('0823010101'),
+              trailing: Icon(
+                Icons.video_call,
+                color: Colors.green,
+              ),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
           ],
         ),
       ),
