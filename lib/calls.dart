@@ -117,7 +117,16 @@ class Calls extends StatelessWidget {
                 'Genos',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('0823010101'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 082301108979')
+                ],
+              ),
               trailing: Icon(
                 Icons.video_call,
                 color: Colors.green,
