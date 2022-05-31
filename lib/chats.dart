@@ -28,7 +28,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Yuk serang uchiha saruto'),
-              trailing: Text('10.10 AM'),
+              trailing: Text('19.00'),
             ),
             const Divider(
               height: 1,
@@ -47,7 +47,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Boruto dimana'),
-              trailing: Text('9.10 AM'),
+              trailing: Text('18.00'),
             ),
             const Divider(
               height: 1,
@@ -66,7 +66,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Yuk ikut cari gradonball'),
-              trailing: Text('9.19 AM'),
+              trailing: Text('17.30'),
             ),
             const Divider(
               height: 1,
@@ -85,7 +85,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Pesen mata kucing bang buat war'),
-              trailing: Text('9.19 AM'),
+              trailing: Text('17.00'),
             ),
             const Divider(
               height: 1,
@@ -104,7 +104,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Lihat sisui nggak?'),
-              trailing: Text('9.19 AM'),
+              trailing: Text('16.00'),
             ),
             const Divider(
               height: 1,
@@ -123,7 +123,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Yuk main ke genos'),
-              trailing: Text('11.19 PM'),
+              trailing: Text('15.00'),
             ),
             const Divider(
               height: 1,
@@ -142,7 +142,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Ayo mancing'),
-              trailing: Text('11.19 PM'),
+              trailing: Text('14.11'),
             ),
             const Divider(
               height: 1,
@@ -161,7 +161,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Malming kuy'),
-              trailing: Text('11.30 PM'),
+              trailing: Text('14.02'),
             ),
             const Divider(
               height: 1,
@@ -180,7 +180,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Mana mikasa?'),
-              trailing: Text('12.19 PM'),
+              trailing: Text('14.00'),
             ),
             const Divider(
               height: 1,
@@ -199,7 +199,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Ayo ngeband'),
-              trailing: Text('13.19 PM'),
+              trailing: Text('13.19'),
             ),
             const Divider(
               height: 1,
@@ -218,7 +218,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Ayo latian'),
-              trailing: Text('12.19 PM'),
+              trailing: Text('12.19'),
             ),
             const Divider(
               height: 1,
@@ -237,7 +237,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Lihat guru saitama?'),
-              trailing: Text('12.19 PM'),
+              trailing: Text('12.19'),
             ),
             const Divider(
               height: 1,
@@ -256,7 +256,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('P'),
-              trailing: Text('14.19 PM'),
+              trailing: Text('12.01'),
             ),
             const Divider(
               height: 1,
@@ -275,7 +275,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Apa kamu ingin berteman'),
-              trailing: Text('14.19 PM'),
+              trailing: Text('12.00'),
             ),
             const Divider(
               height: 1,
@@ -294,7 +294,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Gimana?'),
-              trailing: Text('18.19 PM'),
+              trailing: Text('11.05'),
             ),
             const Divider(
               height: 1,
@@ -313,7 +313,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Beli kabel'),
-              trailing: Text('18.19 PM'),
+              trailing: Text('11.04'),
             ),
             const Divider(
               height: 1,
@@ -332,7 +332,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Jadi tank yaaa'),
-              trailing: Text('18.23 PM'),
+              trailing: Text('11.03'),
             ),
             const Divider(
               height: 1,
@@ -351,7 +351,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Bocil alok'),
-              trailing: Text('18.23 PM'),
+              trailing: Text('11.02'),
             ),
             const Divider(
               height: 1,
@@ -370,7 +370,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Narutohhhh'),
-              trailing: Text('18.23 PM'),
+              trailing: Text('11.01'),
             ),
             const Divider(
               height: 1,
@@ -389,7 +389,7 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Pesen berapa?'),
-              trailing: Text('19.23 PM'),
+              trailing: Text('11.00'),
             ),
             const Divider(
               height: 1,
