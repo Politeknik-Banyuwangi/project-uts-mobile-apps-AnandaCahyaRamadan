@@ -148,7 +148,16 @@ class Calls extends StatelessWidget {
                 'Guru kakasi',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('08323010101'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 089201108979')
+                ],
+              ),
               trailing: Icon(
                 Icons.video_call,
                 color: Colors.green,
