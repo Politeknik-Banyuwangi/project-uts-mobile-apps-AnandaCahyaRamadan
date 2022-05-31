@@ -18,14 +18,30 @@ class Calls extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-
             // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/brYrxCGn/bor.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Borutoh',
+                style:
+                    TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text('081999761656'),
+              trailing: Icon(
+                Icons.call,
+                color: Colors.green,
+              ),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
           ],
         ),
       ),
