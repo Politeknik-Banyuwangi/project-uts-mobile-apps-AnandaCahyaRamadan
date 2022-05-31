@@ -29,7 +29,16 @@ class Calls extends StatelessWidget {
                 'Borutoh',
                 style: TextStyle(color: Colors.black),
               ),
-              subtitle: Text('081999761656'),
+              subtitle: Row(
+                children: [
+                  Image.network(
+                    'https://i.postimg.cc/W3YQ6943/panag.png',
+                    height: 10,
+                    width: 10,
+                  ),
+                  Text(' 081999651514')
+                ],
+              ),
               trailing: Icon(
                 Icons.call,
                 color: Colors.green,
