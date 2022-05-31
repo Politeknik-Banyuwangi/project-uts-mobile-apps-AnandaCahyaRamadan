@@ -321,6 +321,44 @@ class Chats extends StatelessWidget {
               endIndent: 20,
               color: Colors.black,
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/yxxg5YP8/ly-ia.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Lylia',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('Jadi tank yaaa'),
+              trailing: Text('18.23 PM'),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/Kzz8cpg9/alok.webp"),
+                radius: 30,
+              ),
+              title: Text(
+                'Alok',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('Bocil alok'),
+              trailing: Text('18.23 PM'),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
           ],
         ),
       ),
