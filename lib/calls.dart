@@ -129,6 +129,28 @@ class Calls extends StatelessWidget {
               endIndent: 20,
               color: Colors.black,
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/wTBdsRWr/kakashi.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Guru kakasi',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('08323010101'),
+              trailing: Icon(
+                Icons.video_call,
+                color: Colors.green,
+              ),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
           ],
         ),
       ),
