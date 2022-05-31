@@ -161,7 +161,26 @@ class Chats extends StatelessWidget {
                 style: TextStyle(color: Colors.black),
               ),
               subtitle: Text('Malming kuy'),
-              trailing: Text('11.19 PM'),
+              trailing: Text('11.30 PM'),
+            ),
+            const Divider(
+              height: 1,
+              indent: 20,
+              endIndent: 20,
+              color: Colors.black,
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    NetworkImage("https://i.postimg.cc/mgRCwRHK/erehh.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                'Mana mikasa?',
+                style: TextStyle(color: Colors.black),
+              ),
+              subtitle: Text('Ereh'),
+              trailing: Text('12.19 PM'),
             ),
             const Divider(
               height: 1,
